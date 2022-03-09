@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mugxxsv
+- 👋 Hi, I’m @mugxql
 - 👀 I’m interested in DevSecOps, and Bug Bounty
 - 🌱 I’m currently learning WebDevelopment and Bug Bounty
 - 💞️ I’m looking to collaborate on Security tools
